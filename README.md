@@ -9,7 +9,7 @@ GAME INFORMATION
 CONTENTS
 - - - - - - - - - - - - - - -
 Calculus Facts Tour (My Game)
-Game Information (This File)
+How to Play the Game (Download the Calculus Game Zip File and run the Calculus Tour Unity File)
 
 
 INTRODUCTION
@@ -67,7 +67,7 @@ Q: How is this game educational?
 A: Calculus Facts Tour displays Calculus 1 and Calculus 2 formulas and lesson information in the background while the player completes each level. Each level focuses on information from a different Calculus chapter or module. The goal is to help players become familiar with Calculus concepts before taking the class.
 
 Q: What is the main purpose of the game?
-A: The main purpose is to introduce players to formulas and topics they may see in Calculus AB or Calculus BC. The platforming gameplay keeps the player active while the educational information remains visible throughout the levels.
+A: The main purpose is to introduce players to formulas and topics they may see in Calculus 1 or Calculus 2. The platforming gameplay keeps the player active while the educational information remains visible throughout the levels.
 
 Q: How many levels are in the game?
 A: There are 4 levels. Each level includes different Calculus formulas or lesson information.
