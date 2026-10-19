@@ -9,7 +9,7 @@ GAME INFORMATION
 CONTENTS
 - - - - - - - - - - - - - - -
 Calculus Facts Tour (My Game)
-How to Play the Game (Download the Calculus Game Zip File and run the Calculus Tour Unity File)
+How to Play the Game (Download the Calculus Game Zip File and run the Calculus Tour Unity/Application.exe File)
 
 
 INTRODUCTION
